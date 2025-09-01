@@ -1,0 +1,50 @@
+[
+  {
+    "id": "1",
+    "name": "Main device",
+    "lat": 55.7558,
+    "lon": 37.6173,
+    "model": "advanced",
+    "status": "on",
+    "children": [
+      {
+        "lat": 55.756,
+        "lon": 37.617
+      },
+      {
+        "lat": 55.7556,
+        "lon": 37.6176
+      }
+    ]
+  },
+  {
+    "id": "2",
+    "name": "Backup sensor",
+    "lat": 55.7525,
+    "lon": 37.6237,
+    "model": "basic",
+    "status": "off"
+  },
+  {
+    "id": "3",
+    "name": "Special monitor",
+    "lat": 55.758,
+    "lon": 37.621,
+    "model": "special",
+    "status": "on",
+    "children": [
+      {
+        "lat": 55.7582,
+        "lon": 37.6208
+      }
+    ]
+  },
+  {
+    "id": "4",
+    "name": "Street device",
+    "lat": 55.75,
+    "lon": 37.62,
+    "model": "basic",
+    "status": "on"
+  }
+]
