@@ -4,6 +4,7 @@ import path from 'path'
 
 export default defineConfig({
   plugins: [react()],
+  base: '/Map/', // Замените на название вашего репозитория
   resolve: {
     alias: {
       '#app': path.resolve(__dirname, './src/app'),

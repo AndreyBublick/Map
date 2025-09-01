@@ -1,1 +1,1 @@
-export * from "./deviceMap/DeviceMap";
+export * from './device-map/ui/DeviceMap'
